@@ -1,5 +1,9 @@
 package by.step.aqa.q1822.homework.homework_2;
 
+/* Pr2-2
+        Write a program that simulates coin-flipping.
+ */
+
 public class Task2_2 {
 
     public static void main(String[] args) {

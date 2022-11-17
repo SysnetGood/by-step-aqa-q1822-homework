@@ -1,5 +1,10 @@
 package by.step.aqa.q1822.homework.homework_1.task_1_4;
 
+/* Pr1-4
+        Create a class called Spaceship with two fields and two methods.
+        Create two spaceships. Then display their fields and call methods.
+ */
+
 public class Task1_4_main {
 
     public static void main(String[] args) {

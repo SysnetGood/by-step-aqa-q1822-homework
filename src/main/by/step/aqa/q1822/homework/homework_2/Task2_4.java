@@ -1,5 +1,12 @@
 package by.step.aqa.q1822.homework.homework_2;
 
+/*
+Pr2-4
+Get a sequence of random numbers and calculate their
+arithmetic mean value. Stop the process when the next
+number generated randomly equals to 0.
+ */
+
 public class Task2_4 {
 
     private int count = 0;
